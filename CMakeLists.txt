@@ -1,0 +1,6 @@
+project(node_crc64)
+cmake_minimum_required(VERSION 2.8)
+include_directories($ENV{CMAKE_JS_LIB})
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_CXX_STANDARD 11)
+add_executable(crc64 crc64.cpp)
