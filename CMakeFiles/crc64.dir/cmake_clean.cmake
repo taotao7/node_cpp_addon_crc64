@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/crc64.dir/crc64.cpp.o"
-  "CMakeFiles/crc64.dir/crc64.cpp.o.d"
   "crc64"
   "crc64.pdb"
 )

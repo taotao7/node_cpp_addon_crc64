@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/llvm/lib CMakeFiles/crc64.dir/crc64.cpp.o -o crc64 
+/usr/bin/c++    -rdynamic CMakeFiles/crc64.dir/crc64.cpp.o  -o crc64 
