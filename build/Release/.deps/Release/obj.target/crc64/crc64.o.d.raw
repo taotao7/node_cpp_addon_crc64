@@ -1,0 +1,10 @@
+Release/obj.target/crc64/crc64.o: ../crc64.cpp \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/node.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/v8.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/cppgc/common.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/v8config.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/v8-internal.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/v8-version.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/v8-platform.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/node_version.h \
+  /Users/xvtao/Library/Caches/node-gyp/14.17.6/include/node/node_buffer.h

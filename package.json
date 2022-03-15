@@ -1,0 +1,22 @@
+{
+  "name": "node_cpp_addon_crc64",
+  "version": "1.0.0",
+  "description": "add cpp_addon_crc64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taotao7/node_cpp_addon_crc64.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/taotao7/node_cpp_addon_crc64/issues"
+  },
+  "homepage": "https://github.com/taotao7/node_cpp_addon_crc64#readme"
+}
