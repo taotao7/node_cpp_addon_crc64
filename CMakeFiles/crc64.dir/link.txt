@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/crc64.dir/crc64.cpp.o  -o crc64 

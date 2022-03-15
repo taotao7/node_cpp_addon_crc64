@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/tao/node_cpp_addon_crc64",
-  "command": "/usr/bin/c++   -I/home/tao/.nvm/versions/node/v16.14.0/include/node    -std=gnu++11 -o CMakeFiles/crc64.dir/crc64.cpp.o -c /home/tao/node_cpp_addon_crc64/crc64.cpp",
-  "file": "/home/tao/node_cpp_addon_crc64/crc64.cpp"
-}
-]

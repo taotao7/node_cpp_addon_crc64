@@ -1,3 +1,0 @@
-/home/tao/node_cpp_addon_crc64/CMakeFiles/rebuild_cache.dir
-/home/tao/node_cpp_addon_crc64/CMakeFiles/edit_cache.dir
-/home/tao/node_cpp_addon_crc64/CMakeFiles/crc64.dir
