@@ -8,7 +8,9 @@ const main = async () => {
   if (!fs.existsSync(path.join(__dirname, 'dist'))) {
     fs.mkdirSync('dist')
   }
-  await $`npm run build`
-  await $`mv build dist/${os.arch()}-${os.platform()}`
+
+  await $`rm -rf ./dist/${os.arch()}-${os.platform()}`
+  await $`node-gyp rebuild`
+  await $`mv ./build ./dist/${os.arch()}-${os.platform()}`
 }
 main()
