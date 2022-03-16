@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/taotao7/node_cpp_addon_crc64/issues"
   },
-  "homepage": "https://github.com/taotao7/node_cpp_addon_crc64#readme"
+  "homepage": "https://github.com/taotao7/node_cpp_addon_crc64#readme",
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "should": "^13.2.3"
+  }
 }
