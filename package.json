@@ -4,7 +4,8 @@
   "description": "add cpp_addon_crc64",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node-gyp configure -- -f compile_commands_json",
+    "test": "mocha test/crc.test.js",
     "install": "node-gyp rebuild"
   },
   "repository": {
