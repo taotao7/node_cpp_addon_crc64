@@ -1,9 +1,8 @@
 "use strict";
-// const version_path = process.platform + "-" + process.arch;
 const path = require("path");
-// const fs = require("fs");
+const os = require('os');
 
-var _crc64 = require(path.join(__dirname, "build/Release/crc64"))
+var _crc64 = require(path.join(__dirname, `/dist/${os.arch()}-${os.platform()}/Release/crc64`))
 
 const _stream = require("stream");
 
