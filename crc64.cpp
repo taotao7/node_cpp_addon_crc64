@@ -8,6 +8,7 @@
 
 namespace crc64 {
 
+//ECMA182-标准
 #define POLY UINT64_C(0xc96c5795d7870f42)
 
     static uint64_t crc64_little_table[8][256];
